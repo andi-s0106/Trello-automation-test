@@ -1,6 +1,6 @@
 ## Navigation
 
-[**Features**] (/features/)
+[**Features**](/features/)
 
 ## Intro
 
