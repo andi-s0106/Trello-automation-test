@@ -1,6 +1,6 @@
 ## Navigation
 
-[**Features**](/Trello-automation-test/features.md/)    [**About**](/Trello-automation-test/about.md/)
+[**Features**](/Trello-automation-test/features.md)    [**About**](/Trello-automation-test/about.md)
 
 ## Intro
 
